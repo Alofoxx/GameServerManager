@@ -39,3 +39,4 @@ Thumbs.db
 # Ignore the configuration file #
 # Generated during the install  #
 #################################
+configuration.php
