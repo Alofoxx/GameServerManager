@@ -17,4 +17,3 @@
      
   // Fetch the rows of the database using an associative array.
   $db->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC); 
-?>

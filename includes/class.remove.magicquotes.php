@@ -24,4 +24,3 @@
     undo_magic_quotes_gpc($_GET); 
     undo_magic_quotes_gpc($_COOKIE); 
   } 
-?>

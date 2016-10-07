@@ -3,9 +3,9 @@
 	<head>
 		<title>Game Server Manager</title>
 		<?php
-			include './configuration.php';
-			include './includes/class.remove.magicquotes.php';
-			include './includes/class.mysql.connection.php';
+			include '/srv/nginx/office.robert-foster.com/configuration.php';
+			include '/srv/nginx/office.robert-foster.com//srv/nginx/office.robert-foster.com/includes/class.remove.magicquotes.php';
+			include '/srv/nginx/office.robert-foster.com/includes/class.mysql.connection.php';
 		?>
 	</head>
 	<body>
