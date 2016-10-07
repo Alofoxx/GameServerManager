@@ -12,12 +12,9 @@
     die("Failed to connect to the database!"); 
   } 
      
-  // This statement configures PDO to throw an exception when it encounters 
-  // an error.  This allows us to use try/catch blocks to trap database errors. 
+  // Throw an exception when an error is encountered.  
   $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); 
      
-  // This statement configures PDO to return database rows from your database using an associative 
-  // array.  This means the array will have string indexes, where the string value 
-  // represents the name of the column in your database. 
+  // Fetch the rows of the database using an associative array.
   $db->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC); 
 ?>
