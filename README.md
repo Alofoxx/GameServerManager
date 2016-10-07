@@ -1,1 +1,1 @@
-# GameServerManager
+# Game Server Manager
