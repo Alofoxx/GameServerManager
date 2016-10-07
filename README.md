@@ -8,17 +8,17 @@ A web based game server provisioning system that can manage connected hosts. On 
 
 # Features
 
-User accounts
-Role Based Permission System for making groups that can perform certain actions.
-Adding new hosts
-Disable / remove hosts
-Adding new game servers
-Disable / remove game servers
-Adding / Disable / remove new users of ___ type
-2-Factor authentication ( Windows Phone, Android, iPhone )
-Possible OAuth? ( Way in the future )
-Secure communication with Hosts
-Service running on Hosts to communicate with.
+- User accounts
+- Role Based Permission System for making groups that can perform certain actions.
+- Adding new hosts
+- Disable / remove hosts
+- Adding new game servers
+- Disable / remove game servers
+- Adding / Disable / remove new users of ___ type
+- 2-Factor authentication ( Windows Phone, Android, iPhone )
+- Possible OAuth? ( Way in the future )
+- Secure communication with Hosts
+- Service running on Hosts to communicate with.
 
 
 
