@@ -1,5 +1,6 @@
 # Game Server Manager
-|https://github.com/NicronS/GameServerManager
+[Game Server Manager](https://github.com/NicronS/GameServerManager)
+
 
 # Purpose
 
