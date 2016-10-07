@@ -1,5 +1,4 @@
 <?php 
-  
   // Basic includes and requirements
   require 'configuration.php';
   require 'includes/class.mysql.connection.php';
@@ -142,10 +141,8 @@
 
       // If header is canceled or stopped somehow display die.
       die("Redirecting to login.php"); 
-    } 
-     
+    }    
 ?> 
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
