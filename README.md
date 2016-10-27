@@ -1,4 +1,4 @@
-#[Game Server Manager](https://github.com/NicronS/GameServerManager)
+#[Game Server Manager](//gsmanager.net)
 
 
 # Purpose
